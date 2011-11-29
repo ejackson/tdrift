@@ -7,3 +7,7 @@ clojure-contrib.jar
 clojure-contrib-src.jar
 clojure-src.jar
 
+/.lein-deps-sum
+/.lein-failures
+/project.clj~
+/src/config/migrate_config.clj~

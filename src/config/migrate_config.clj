@@ -21,6 +21,6 @@
 
 (defn migrate-config []
   {:init (fn [_])
-   :directory "db/migrations"
+   :directory "/db/migrations"
    :current-version db-version
    :update-version update-db-version})
