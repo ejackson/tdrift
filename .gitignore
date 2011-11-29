@@ -1,0 +1,9 @@
+lib
+db
+.classpath
+.project
+clojure.jar
+clojure-contrib.jar
+clojure-contrib-src.jar
+clojure-src.jar
+
